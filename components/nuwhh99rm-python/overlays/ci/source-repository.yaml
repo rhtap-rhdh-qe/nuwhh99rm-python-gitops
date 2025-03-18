@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nuwhh99rm-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/nuwhh99rm-python
